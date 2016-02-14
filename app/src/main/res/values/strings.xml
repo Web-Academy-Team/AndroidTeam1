@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FDays</string>
+    <string name="meun">Меню</string>
+    <string name="good_day">Отличный день</string>
+    <string name="bad_day">Потерянный день</string>
+    <string name="calendar">Календарь</string>
+    <string name="targets">Цели</string>
+    <string name="b_g">Х/П</string>
+    <string name="target">Цель</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О приложении</string>
+
+
+</resources>
